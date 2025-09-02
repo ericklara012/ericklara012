@@ -4,7 +4,7 @@
 
 About Me 👋
 
-👨‍💻 Computer Science & Engineering Student
+
 I'm currently studying Information Technology Engineering, exploring and learning different technologies for web development, desktop applications, and databases.
 
 🛠 Tech & Security Enthusiast
