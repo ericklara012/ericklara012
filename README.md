@@ -40,6 +40,10 @@
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-DB4437?style=flat-square&logo=owasp&logoColor=ffffff)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-1A1A1A?style=flat-square&logo=aircrack-ng&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![Paramiko](https://img.shields.io/badge/-Paramiko-000000?style=flat-square&logo=python&logoColor=ffffff)
+![Scapy](https://img.shields.io/badge/-Scapy-1A1A1A?style=flat-square&logo=python&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
 
 
 
