@@ -33,3 +33,5 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=ffffff)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=ffffff)
 ![Apache](https://img.shields.io/badge/-Apache-FC6C0C?style=flat-square&logo=apache&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Nmap](https://img.shields.io/badge/-Nmap-CE5032?style=flat-square&logo=nmap&logoColor=ffffff)
