@@ -38,3 +38,6 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1A1A1A?style=flat-square&logo=wireshark&logoColor=43B1E5)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-6E4C9D?style=flat-square&logo=metasploit&logoColor=ffffff)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-DB4437?style=flat-square&logo=owasp&logoColor=ffffff)
+![Hydra](https://img.shields.io/badge/-Hydra-gray?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-gray?style=flat-square)
+
