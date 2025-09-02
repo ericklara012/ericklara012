@@ -39,6 +39,8 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-6E4C9D?style=flat-square&logo=metasploit&logoColor=ffffff)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-DB4437?style=flat-square&logo=owasp&logoColor=ffffff)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-1A1A1A?style=flat-square&logo=aircrack-ng&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+
 
 
 
