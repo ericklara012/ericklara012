@@ -2,14 +2,16 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+About Me 👋
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+👨‍💻 Computer Science & Engineering Student
+I'm currently studying Information Technology Engineering, exploring and learning different technologies for web development, desktop applications, and databases.
 
----
+🛠 Tech & Security Enthusiast
+I enjoy learning about Linux, computer security, Nmap, Aircrack-ng, and other pentesting tools. I'm always looking to improve my development and systems skills.
+
+💡 Future Goals
+Continue learning new technologies, improving my projects, and creating useful solutions.
 
 ### Languages and Tools 🛠 
 
